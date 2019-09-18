@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter9/Chapter.iml" filepath="$PROJECT_DIR$/chapter9/Chapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Charpter/Charpter.iml" filepath="$PROJECT_DIR$/Charpter/Charpter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Episode9.iml" filepath="$PROJECT_DIR$/Episode9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicalUserInterface/GraphicalUserInterface.iml" filepath="$PROJECT_DIR$/GraphicalUserInterface/GraphicalUserInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Internet/Internet.iml" filepath="$PROJECT_DIR$/Internet/Internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LayoutTest/LayoutTest.iml" filepath="$PROJECT_DIR$/LayoutTest/LayoutTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Music/Music.iml" filepath="$PROJECT_DIR$/Music/Music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/Serialization/Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallChat/SmallChat.iml" filepath="$PROJECT_DIR$/SmallChat/SmallChat.iml" />
+    </modules>
+  </component>
+</project>
